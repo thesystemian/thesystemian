@@ -3,7 +3,7 @@
 
 ## 🌱 About Me
 
-I'm **Dax Ricaud**, a creative technologist and digital nomad in progress.
+I'm **Dax**, a creative technologist and digital nomad in progress.
 I work in **Full CLI mode**, building tools and systems with:
 
 - 🦀 **Rust** for fast and safe CLI tools
