@@ -1,0 +1,1 @@
+# Archive: P-Universe\n\nThis directory contains archived projects from the P-Universe ecosystem.\n\n## Projects included:\n- **prim3IA**: Offline local AI assistant in CLI.\n- **pmail-cli**: Client Mail CLI Souverain — Premier pilier de The P Universe.\n\n---\n*Archived as part of The Systemian Profile Restructure (April 2026).*
