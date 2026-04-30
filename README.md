@@ -28,7 +28,9 @@ I'm the founder of **The Systemian Vision**, a personal philosophy and tech path
 
 ## 🔧 Projects & Experiments
 
-- 🤖 **Prim** — My offline local AI assistant in CLI (voice, vision, control)
+- 🌱 **Clemencia Garden 3.0** — Agritech IA-Driven (Bash + Python + AI Agents + Dataviz)
+- 📊 **ClemenciaData** — Dataviz, analytics & documentation for Clemencia Garden
+- 🤖 **Prim** — My offline local AI assistant in CLI (Archived in P-Universe)
 - 🧘🏾 **CLI Yoga Tool** — Python timer for Surya Namaskar & daily rituals
 
 ---
@@ -36,7 +38,7 @@ I'm the founder of **The Systemian Vision**, a personal philosophy and tech path
 ## 🚀 Mission
 
 To become a **CLI-native Systemien** — free, mobile, and sovereign.
-I want to create, share, and teach ethical tech tools to others.
+Focusing on **Agritech IA-Driven** solutions and ethical tech tools.
 
 ---
 
