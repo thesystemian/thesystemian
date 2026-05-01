@@ -1,51 +1,46 @@
+# 👋 Hey, I’m Dax
 
-# 👋 Welcome to My GitHub
+🌊 Based in the Indian Ocean  
+🛠️ Curious hobbyist exploring Bash, Git, CLI workflows and practical AI  
+🌱 Interested in simple systems, useful tools and grounded ideas
 
-## 🌱 About Me
+## 🚀 About Me
 
-I'm **Dax**, a creative technologist and digital nomad in progress.
-I work in **Full CLI mode**, building tools and systems with:
+I like building small things, testing ideas, and learning in public.  
+Right now, I’m exploring practical AI, terminal workflows, and lightweight systems that stay useful in the real world.
 
-- ❄️ **Nix/NixOS** for reproducible environments
-- 🐧 **Linux** for full control and transparency
+My interests sit around:
+- 🤖 Agentic AI
+- 💻 Bash, Git and CLI workflows
+- 🌱 Agriculture and permaculture
+- 💧 Water and resilient systems
+- 🧭 Clear, simple, grounded experimentation
 
-I'm the founder of **The Systemian Vision**, a personal philosophy and tech path blending:
+## 🧰 Current Stack
 
-> ⚙️ **Automation** + 🧠 **Local AI** + 📡 **Decentralization**
+- 💻 Bash
+- 🌿 Git
+- ✍️ Helix
+- 🧱 VS Code
+- 🍎 MacBook Pro M2 / 16GB
+
+## 🧪 What I’m Doing
+
+- Building small CLI experiments
+- Learning Bash + Git step by step
+- Exploring practical uses of AI
+- Documenting ideas and systems as I go
+
+## 📌 Mindset
+
+Less hype, more clarity.  
+Less complexity, more useful systems.  
+Learn, test, refine, repeat.
+
+## 🌍 Themes I Care About
+
+Tech, AI, agriculture, water, autonomy, and real-world resilience.
 
 ---
-
-## 🛠️ Tech Stack
-
-- **Rust** · `cli` · `onnxruntime` · `serde`
-- **NixOS** · `flakes` · `home-manager`
-- **Python** · `whisper` · `piper` · `transformers`
-- **Docker** · `dev containers` · `ai models`
-- **Fish Shell** · `tldr` · `bat` · `fd` · `ripgrep`
-- **Markdown / Emacs / Hledger`
-
----
-
-## 🔧 Projects & Experiments
-
-- 🌱 **Clemencia Garden 3.0** — Agritech IA-Driven (Bash + Python + AI Agents + Dataviz)
-- 📊 **ClemenciaData** — Dataviz, analytics & documentation for Clemencia Garden
-- 🤖 **Prim** — My offline local AI assistant in CLI (Archived in P-Universe)
-- 🧘🏾 **CLI Yoga Tool** — Python timer for Surya Namaskar & daily rituals
-
----
-
-## 🚀 Mission
-
-To become a **CLI-native Systemien** — free, mobile, and sovereign.
-Focusing on **Agritech IA-Driven** solutions and ethical tech tools.
-
----
-
-## 📫 Connect with Me
-
-- Email: [daxricaud@proton.me](mailto:daxricaud@proton.me)
-- LinkedIn: [linkedin.com/in/dax-ricaud-420a8a24a](https://www.linkedin.com/in/dax-ricaud-420a8a24a/)
-- Codeberg: [@Sunday](https://codeberg.org/Sunday)
-
+✨ Quietly building, learning, and connecting ideas.
 > "We are learning step by step, and we are doing it together — day by day." 💪🎧
